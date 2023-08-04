@@ -1,0 +1,1 @@
+DevOps shell permissions
